@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Universitas Esa Unggul</title>
+  <desc id="desc">Mark lingkaran biru dan oranye Universitas Esa Unggul.</desc>
+  <defs>
+    <radialGradient id="globe" cx="38%" cy="35%" r="62%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.22" stop-color="#bfe8ff"/>
+      <stop offset="0.55" stop-color="#0f8fd0"/>
+      <stop offset="1" stop-color="#0067ad"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(7 6)">
+    <path d="M32 80C14 55 18 27 40 10C22 18 7 38 5 61C3 88 19 110 43 119C35 109 30 96 32 80Z" fill="#0078c1"/>
+    <path d="M96 30C76 1 38 2 15 27C29 8 53 -2 78 2C105 7 123 29 126 56C119 44 109 35 96 30Z" fill="#0078c1"/>
+    <path d="M101 71C105 93 88 113 63 116C39 119 20 107 10 92C24 119 57 131 87 119C113 109 128 84 126 56C122 64 113 70 101 71Z" fill="#ff5a1f"/>
+    <path d="M92 46C112 65 103 99 74 108C47 116 21 97 21 68C21 39 48 19 75 27C81 29 87 36 92 46Z" fill="#0078c1"/>
+    <circle cx="66" cy="66" r="35" fill="url(#globe)"/>
+    <path d="M17 83C31 113 74 120 101 92" fill="none" stroke="#0078c1" stroke-width="8" stroke-linecap="round"/>
+    <path d="M20 35C43 9 83 8 107 33" fill="none" stroke="#0078c1" stroke-width="8" stroke-linecap="round"/>
+    <path d="M8 75C15 101 38 119 65 120" fill="none" stroke="#0078c1" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>
